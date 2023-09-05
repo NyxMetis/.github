@@ -1,1 +1,1 @@
-Nyx is L2 solution for Cortex
+NyxMetis conducts research on Zero-Knowledge Proofs (ZKP) and application development on the Cortex.

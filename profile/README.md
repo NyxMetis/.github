@@ -1,1 +1,1 @@
-NyxMetis conducts research on Zero-Knowledge Proofs (ZKP) and application development on the Cortex.
+Conducting research on Layer 2 solutions for Cortex(ZKML&ZKVM).

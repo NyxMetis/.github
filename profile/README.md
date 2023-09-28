@@ -1,1 +1,1 @@
-Conducting research on Layer 2 solutions for Cortex(ZKML&ZKVM).
+Conducting research on Zero-Knowledge Proofs (ZKP) and application development on the Cortex, with a  primary emphasis on ZKML and ZKVM.
